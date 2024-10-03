@@ -3,4 +3,4 @@
 /Scripts
 .env
 .exe
-/pyvenv.cfg/
+pyvenv.cfg
